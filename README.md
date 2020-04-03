@@ -41,3 +41,20 @@ JavaScriptでの実装とReactでの実装の違いを学ぶ。
 [styled-components install](https://styled-components.com/docs/basics#installation)
 
 ##### 3. サイトとして公開
+
+1. gh-pagesモジュールを追加
+
+`yarn add -D gh-pages`
+
+2. package.jsonのscriptsに下記コマンドを追加
+
+```
+"predeploy": "npm run build"
+"deploy": "gh-pages -d build"
+```
+
+3. コマンドを実行
+
+```
+$ yarn run deploy
+```
