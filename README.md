@@ -43,7 +43,7 @@ yarn start
 
 jsFiddleのようなブラウザで動作を確認できるものを使いながら読むと理解が深まるかと思います。
 
-[jsFiddle][https://jsfiddle.net/boilerplate/react-jsx]
+[jsFiddle](https://jsfiddle.net/boilerplate/react-jsx)
 
 
 ##### 3. ○×ゲームを実装
