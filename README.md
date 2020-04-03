@@ -41,6 +41,11 @@ yarn start
 - [React.js公式](https://ja.reactjs.org/docs/hello-world.html)
 - [12 React Best Practices You Need to Follow in 2020](https://www.codeinwp.com/blog/react-best-practices/)
 
+jsFiddleのようなブラウザで動作を確認できるものを使いながら読むと理解が深まるかと思います。
+
+[jsFiddle][https://jsfiddle.net/boilerplate/react-jsx]
+
+
 ##### 3. ○×ゲームを実装
 
 [js課題](https://github.com/version-1/js-tic-tac-toe)で実装した○×ゲームと同様のものを実装して、
