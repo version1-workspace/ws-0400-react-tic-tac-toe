@@ -19,28 +19,40 @@ demo: https://version-1.github.io/react-tic-tac-toe/
 
 ## 課題の進め方
 
-#### 1. Reactの公式ドキュメントを読む
+#### 1. yarn, create-react-appを利用してReactをインストール
+
+1. reactをインストール
+```
+yarn create react-app .
+```
+
+2. reactを動かしてみる
+```
+yarn start
+```
+
+ブラウザが起動してReactのロゴが表示されれば完了です。
+
+
+#### 2. Reactの公式ドキュメントを読む
 
 主にメインコンセプト部分中心に
 
 - [React.js公式](https://ja.reactjs.org/docs/hello-world.html)
 - [12 React Best Practices You Need to Follow in 2020](https://www.codeinwp.com/blog/react-best-practices/)
 
-##### 2. ○×ゲームを実装
+##### 3. ○×ゲームを実装
 
 [js課題](https://github.com/version-1/js-tic-tac-toe)で実装した○×ゲームと同様のものを実装して、
 JavaScriptでの実装とReactでの実装の違いを学ぶ。
 
-###### create-react-appを使ったReactのテンプレートがすでにインストールされているのでこちらを活用する。
-
-`yarn start` とするとReactのアプリを開始することができます。（ブラウザが開いて、Reactの雛形のアプリを確認できます。）
 
 ###### styled-component をインストールしてstyled-componentを使ってスタイルする
 
 下記手順を参考にstyled-componentをインストールして使用する。
 [styled-components install](https://styled-components.com/docs/basics#installation)
 
-##### 3. サイトとして公開
+##### 5. サイトとして公開
 
 1. gh-pagesモジュールを追加
 
