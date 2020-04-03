@@ -44,7 +44,9 @@ JavaScriptでの実装とReactでの実装の違いを学ぶ。
 
 1. gh-pagesモジュールを追加
 
-`yarn add -D gh-pages`
+```
+$ yarn add -D gh-pages
+```
 
 2. package.jsonのscriptsに下記コマンドを追加
 
