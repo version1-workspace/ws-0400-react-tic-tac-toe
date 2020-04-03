@@ -4,6 +4,8 @@
 
 JavaScriptで実装した○×ゲームと同様のゲームをReactで実装してください。
 
+demo: https://version-1.github.io/react-tic-tac-toe/
+
 ## 課題で身に着けること
 
 - ライフサイクルメソッド
