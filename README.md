@@ -19,6 +19,10 @@ demo: https://version-1.github.io/react-tic-tac-toe/
 
 ## 課題の進め方
 
+#### 0. 課題用リポジトリの作成
+
+フォークでなく個人のアカウントにリポジトリ を作成してください。
+
 #### 1. yarn, create-react-appを利用してReactをインストール
 
 1. reactをインストール
