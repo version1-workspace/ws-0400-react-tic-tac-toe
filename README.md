@@ -55,16 +55,16 @@ jsFiddleのようなブラウザで動作を確認できるものを使いなが
 [js課題](https://github.com/version-1/js-tic-tac-toe)で実装した○×ゲームと同様のものを実装して、
 JavaScriptでの実装とReactでの実装の違いを学ぶ。
 
-###### 開発はdevelopブランチを使って行い、実装が完了した後はmasterへのプルリクエストを作成してレビューをうける
-
-###### styled-component をインストールしてstyled-componentを使ってスタイルする
+##### styled-component をインストールしてstyled-componentを使ってスタイルする
 
 下記手順を参考にstyled-componentをインストールして使用する。
 [styled-components install](https://styled-components.com/docs/basics#installation)
 
-#### 4. ○×ゲームを実装
+##### 開発はdevelopブランチを使って行い、実装が完了した後はmasterへのプルリクエストを作成する。
 
-##### 5. サイトとして公開
+サイトを公開する際はdevelopブランチで下記サイト公開の手順を実施してください。
+
+#### 4. サイトとして公開
 
 1. gh-pagesモジュールを追加
 
