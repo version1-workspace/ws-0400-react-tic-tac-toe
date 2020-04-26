@@ -58,6 +58,7 @@ JavaScriptでの実装とReactでの実装の違いを学ぶ。
 ##### styled-component をインストールしてstyled-componentを使ってスタイルする
 
 下記手順を参考にstyled-componentをインストールして使用する。
+
 [styled-components install](https://styled-components.com/docs/basics#installation)
 
 ##### 開発はdevelopブランチを使って行い、実装が完了した後はmasterへのプルリクエストを作成する。
