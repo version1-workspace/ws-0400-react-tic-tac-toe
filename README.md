@@ -76,7 +76,7 @@ $ yarn add -D gh-pages
 2. package.jsonのscriptsに下記コマンドを追加
 
 ```
-"predeploy": "npm run build"
+"predeploy": "yarn run build"
 "deploy": "gh-pages -d build"
 ```
 
