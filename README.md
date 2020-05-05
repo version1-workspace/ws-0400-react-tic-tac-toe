@@ -80,7 +80,13 @@ $ yarn add -D gh-pages
 "deploy": "gh-pages -d build"
 ```
 
-3. コマンドを実行
+3. package.jsonにhompepage urlを追加
+```
+ex)
+  "homepage": "https://version-1.github.io/react-tic-tac-toe"
+```
+
+4. コマンドを実行
 
 ```
 $ yarn run deploy
