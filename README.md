@@ -44,6 +44,7 @@ yarn start
 
 - [React.js公式](https://ja.reactjs.org/docs/hello-world.html)
 - [12 React Best Practices You Need to Follow in 2020](https://www.codeinwp.com/blog/react-best-practices/)
+- [これから始めるReact.js入門](https://speakerdeck.com/jjoo/korekarashi-merureact-dot-jsru-men)
 
 jsFiddleのようなブラウザで動作を確認できるものを使いながら読むと理解が深まるかと思います。
 
