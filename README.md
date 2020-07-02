@@ -83,11 +83,14 @@ $ yarn add -D gh-pages
 
 3. package.jsonにhompepage urlを追加
 ```
+// https://[アカウント名].github.io/[リポジトリ名]
 ex)
   "homepage": "https://version-1.github.io/react-tic-tac-toe"
 ```
 
-4. コマンドを実行
+4. 上記変更をコミット & Push
+
+5. コマンドを実行
 
 ```
 $ yarn run deploy
