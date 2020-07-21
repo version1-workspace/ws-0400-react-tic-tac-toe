@@ -43,7 +43,10 @@ yarn start
 主にメインコンセプト部分中心に
 
 - [React.js公式](https://ja.reactjs.org/docs/hello-world.html)
-- [12 React Best Practices You Need to Follow in 2020](https://www.codeinwp.com/blog/react-best-practices/)
+
+### 参考リンク
+- [JavaScriptでイミュータブルなプログラミングをする](https://sbfl.net/blog/2018/09/25/javascript-immutable-programming/)
+- [ES2015のモジュール機能(import/export)](https://qiita.com/ozaki25/items/9723cb3c1c72845157d5)
 - [これから始めるReact.js入門](https://speakerdeck.com/jjoo/korekarashi-merureact-dot-jsru-men)
 
 jsFiddleのようなブラウザで動作を確認できるものを使いながら読むと理解が深まるかと思います。
