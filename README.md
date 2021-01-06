@@ -4,7 +4,7 @@
 
 JavaScriptで実装した○×ゲームと同様のゲームをReactで実装してください。
 
-demo: https://version-1.github.io/ws-0400-react-tic-tac-toe/
+demo: https://version1-workspace.github.io/ws-0400-react-tic-tac-toe/
 
 ## 課題で身に着けること
 
