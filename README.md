@@ -8,11 +8,11 @@ demo: https://version1-workspace.github.io/ws-0400-react-tic-tac-toe/
 
 ## 課題で身に着けること
 
-- ライフサイクルメソッド
-- propsとは？
-- stateとは？
+- Propsとは？
+- Stateとは？
 - children, fragment
-- クラスコンポーネントと関数コンポーネント
+- 関数コンポーネント
+- Hoos API を使った状態管理
 - コンポーネントを作る時に考えること
 - yarnモジュールのインストール（styled-components)
 - CSS in JS(Styled-Component)
