@@ -42,13 +42,11 @@ yarn start
 
 主にメインコンセプト部分中心に
 
-- [React.js公式](https://ja.reactjs.org/docs/hello-world.html)
+- [React.js公式]([https://ja.reactjs.org/docs/hello-world.html](https://ja.react.dev/learn))
 
 ### 参考リンク
 - [JavaScriptでイミュータブルなプログラミングをする](https://sbfl.net/blog/2018/09/25/javascript-immutable-programming/)
 - [ES2015のモジュール機能(import/export)](https://qiita.com/ozaki25/items/9723cb3c1c72845157d5)
-- [これから始めるReact.js入門](https://speakerdeck.com/jjoo/korekarashi-merureact-dot-jsru-men)
-- [Reactのライフサイクルメソッドのコード例](https://codesandbox.io/s/react-lifecycle-sample-w6n87?file=/src/App.js)
 
 jsFiddleのようなブラウザで動作を確認できるものを使いながら読むと理解が深まるかと思います。
 
