@@ -42,7 +42,7 @@ yarn start
 
 主にメインコンセプト部分中心に
 
-- [React.js公式]([https://ja.reactjs.org/docs/hello-world.html](https://ja.react.dev/learn))
+- [React.js公式](https://ja.react.dev/learn)
 
 ### 参考リンク
 - [JavaScriptでイミュータブルなプログラミングをする](https://sbfl.net/blog/2018/09/25/javascript-immutable-programming/)
